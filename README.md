@@ -27,11 +27,11 @@ This project focuses on utilizing LSTM, a type of recurrent neural network (RNN)
 ## Usage
 
 1. Data Preparation:
-  * Place your historical Bitcoin price data in the data/ directory.
+   * Place your historical Bitcoin price data in the data/ directory.
 2. Model Training:
-  * Run the Jupyter notebooks in the notebooks/ directory to train the LSTM model.
+   * Run the Jupyter notebooks in the notebooks/ directory to train the LSTM model.
 3. Prediction:
-  * Utilize the trained model to make Bitcoin price predictions.
+   * Utilize the trained model to make Bitcoin price predictions.
 
 
 
