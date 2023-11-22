@@ -3,8 +3,8 @@ __pycache__/
 *.pyo
 *.pyd
 
-.idea/
-.ipynb_checkpoints
+.idea
+#.ipynb_checkpoints
 
 # Virtual environment
 venv/
