@@ -1,7 +1,7 @@
-## Introduction
+### Introduction
 This project focuses on utilizing LSTM, a type of recurrent neural network (RNN), to model and forecast Bitcoin prices based on historical data. LSTM networks are well-suited for capturing temporal dependencies, making them a powerful tool for time series prediction tasks.
 
-## Requirements
+### Requirements
 
 * [Python] 3.10
 * matplotlib==3.8.2
@@ -10,7 +10,7 @@ This project focuses on utilizing LSTM, a type of recurrent neural network (RNN)
 * scikit_learn==1.3.2
 * tensorflow==2.15.0
 
-## Installation
+### Installation
 
 1. Clone the repository:
 
@@ -24,7 +24,7 @@ This project focuses on utilizing LSTM, a type of recurrent neural network (RNN)
   
    `pip install -r requirements.txt`
 
-## Usage
+### Usage
 
 1. Data Preparation:
    * Place your historical Bitcoin price data in the data/ directory.
