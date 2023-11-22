@@ -1,13 +1,12 @@
-
-
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual environment
-venv/
+
 .idea
 .ipynb_checkpoints
 
 
+# Virtual environment
+venv/
