@@ -3,12 +3,12 @@ This project focuses on utilizing LSTM, a type of recurrent neural network (RNN)
 
 ### Requirements
 
-* [Python] 3.10
+* [Python] 3.12.4
 * matplotlib==3.8.2
-* numpy==1.26.2
-* pandas==2.1.3
-* scikit_learn==1.3.2
-* tensorflow==2.15.0
+* numpy==2.0.1
+* pandas==2.2.2
+* scikit_learn==1.5.1
+* tensorflow==2.16.1
 
 ### Installation
 
